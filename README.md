@@ -18,18 +18,19 @@
 
 ## 📝 Descrição
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
+Atualmente as empresas vêm sendo afetadas pela intensa rotatividade dos seus colaboradores. Esse problema atinge a companhia de diversas maneiras, como: 1) Os gastos contínuos com contratação; e 2) Treinamento e desenvolvimento de novos funcionários. Além disso, essa situação interfere em toda dinâmica do negócio, desde a produção, criação, desenvolvimento até a entrega final para os consumidores. A solução desenvolvida para a Everymind se baseia em uma ferramenta, que utiliza o aprendizado de máquina para realizar a previsão da taxa de rotatividade dos funcionários. Esse modelo de predição irá fornecer a área de RH da Everymind quais colaboradores são mais propenso a saírem da empresa, contribuindo para que eles encontrem maneiras de reduzir a taxa de turnover e que melhorem a experiência dos seus colaboradores, através de um “Lock in”,  sendo esse uma forma de beneficiar os funcionários que apresentam características que condizem com a cultura da empresa, fornecendo incentivos de permanência na instituição.
+
 
 ## 📁 Estrutura de pastas
 
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Web_application_document.pdf<br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Web_application_document.docx<br>
+  &emsp;| T2_G2_V10_documentacao.pdf<br>
+  &emsp;| T2_G2_V10_documentacao.docx<br>
 |--> imagens<br>
 |--> src<br>
   &emsp;|--> Backend<br>
-  &emsp;|--> Frontend<br>
+  &emsp;|--> Wireframe<br>
 | readme.md<br>
 | license.txt
 
@@ -41,7 +42,7 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>imagens</b>: imagens relacionadas ao projeto como um todo (por exemplo imagens do sistema, do grupo, logotipos e afins).
 
-- <b>src</b>: nesta pasta encontra-se todo o código fonte do sistema (existem duas subpastas <b>backend</b> e <b>frontend</b> que contêm, respectivamente, o código do servidor e o código da página web).
+- <b>src</b>: nesta pasta encontra-se todo o código fonte do sistema (existem duas subpastas <b>backend</b> e <b>Wireframe</b> que contêm, respectivamente, o código do servidor e o frontend pensado futuramente para a solução).
 
 ## 💻 Configuração para desenvolvimento
 
@@ -50,17 +51,15 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 ## 🗃 Histórico de lançamentos
 
 * 0.2.1 - 25/01/2022
-    * Atualização de documentos (código do módulo permanece inalterado).
+    * 
 * 0.2.0 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
+    * 
 * 0.1.1 - 11/01/2022
-    * Crash quando chama `baz()`
+    * 
 * 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+    *
+* 0.0.1 - 12/08/2022
+    * Primeira entrega - Análise dos dados
 
 ## 📋 Licença/License
 
