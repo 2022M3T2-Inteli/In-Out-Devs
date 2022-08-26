@@ -24,9 +24,10 @@ Atualmente as empresas vêm sendo afetadas pela intensa rotatividade dos seus co
 ## 📁 Estrutura de pastas
 
 |--> documentos<br>
-  &emsp;| --> outros <br>
+  &emsp;| --> Outros documentos <br>
   &emsp;| T2_G2_V10_documentacao.pdf<br>
   &emsp;| T2_G2_V10_documentacao.docx<br>
+|--> Notebook<br>
 |--> imagens<br>
 | readme.md<br>
 | license.txt
@@ -34,6 +35,8 @@ Atualmente as empresas vêm sendo afetadas pela intensa rotatividade dos seus co
 Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+
+- <b>Notebook</b>: aqui estará armazenado o notebook com os códigos e comentários acerca do modelo preditivo criado</b>.
 
 - <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares ao <b>web application document</b>.
 
@@ -48,8 +51,8 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
     * 
 * 0.1.1 - 11/01/2022
     * 
-* 0.1.0 - 10/01/2022
-    *
+* 0.1.0 - 26/08/2022
+    * Segunda entrega - Processamento de dados
 * 0.0.1 - 12/08/2022
     * Primeira entrega - Análise dos dados
 
