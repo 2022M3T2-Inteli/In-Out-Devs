@@ -28,9 +28,6 @@ Atualmente as empresas vêm sendo afetadas pela intensa rotatividade dos seus co
   &emsp;| T2_G2_V10_documentacao.pdf<br>
   &emsp;| T2_G2_V10_documentacao.docx<br>
 |--> imagens<br>
-|--> src<br>
-  &emsp;|--> Backend<br>
-  &emsp;|--> Wireframe<br>
 | readme.md<br>
 | license.txt
 
@@ -41,11 +38,6 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 - <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares ao <b>web application document</b>.
 
 - <b>imagens</b>: imagens relacionadas ao projeto como um todo (por exemplo imagens do sistema, do grupo, logotipos e afins).
-
-- <b>src</b>: nesta pasta encontra-se todo o código fonte do sistema (existem duas subpastas <b>backend</b> e <b>Wireframe</b> que contêm, respectivamente, o código do servidor e o frontend pensado futuramente para a solução).
-
-## 💻 Configuração para desenvolvimento
-
 
 
 ## 🗃 Histórico de lançamentos
