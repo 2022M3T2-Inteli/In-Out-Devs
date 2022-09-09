@@ -56,8 +56,8 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
     * 
 * 0.2.0 - 15/01/2022
     * 
-* 0.1.1 - 11/01/2022
-    * 
+* 0.1.1 - 08/09/2022
+    * Terceira entrega - Treinamento do modelo
 * 0.1.0 - 26/08/2022
     * Segunda entrega - Processamento de dados
 * 0.0.1 - 12/08/2022
