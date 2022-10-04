@@ -27,8 +27,8 @@ Atualmente as empresas vêm sendo afetadas pela intensa rotatividade dos seus co
   &emsp;| --> Outros documentos <br>
   &emsp;| T2_G2_V10_documentacao.pdf<br>
   &emsp;| T2_G2_V10_documentacao.docx<br>
-|--> Notebook<br>
 |--> imagens<br>
+|--> Notebook<br>
 | readme.md<br>
 | license.txt
 
@@ -45,17 +45,15 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 ## 💻 Execução dos projetos
 
-Todos os notebooks do projeto tem o resultado de execução das células visíveis no próprio repositório Github.
-
 Para replicação (reexecução dos códigos), o botão `Open in Colab` disponível na página do arquivo neste repositório do Github.
 > Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 25/01/2022
-    * 
-* 0.2.0 - 15/01/2022
-    * 
+* 0.2.1 - 06/10/2022
+    * Quinta entrega - Modelo Final
+* 0.2.0 - 23/09/2022
+    * Quarta entrega - Aprimoramento do modelo
 * 0.1.1 - 08/09/2022
     * Terceira entrega - Treinamento do modelo
 * 0.1.0 - 26/08/2022
@@ -70,3 +68,18 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto:
+
+Phase 1 of the CRISP-DM Process Model: Business Understanding. Disponível em:
+<https://www.dummies.com/article/technology/information-technology/data-science/
+general-data-science/phase-1-of-the-crisp-dm-process-model-business-understanding-
+148161/>. Acesso em: 21 set. 2022.
+
+Phase 2 of the CRISP-DM Process Model: Data Understanding. Disponível em:
+<https://www.dummies.com/article/technology/information-technology/data-science/
+general-data-science/phase-2-of-the-crisp-dm-process-model-data-understanding-
+148213/>. Acesso em: 21 set. 2022.
+
+Phase 3 of the CRISP-DM Process Model: Data Preparation. Disponível em:
+<https://www.dummies.com/article/technology/information-technology/data-science/
+general-data-science/phase-3-of-the-crisp-dm-process-model-data-preparation-148177/>.
+Acesso em: 21 set. 2022.
