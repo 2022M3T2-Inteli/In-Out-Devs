@@ -25,8 +25,8 @@ Atualmente as empresas vêm sendo afetadas pela intensa rotatividade dos seus co
 
 |--> documentos<br>
   &emsp;| --> Outros documentos <br>
-  &emsp;| T2_G2_V10_documentacao.pdf<br>
-  &emsp;| T2_G2_V10_documentacao.docx<br>
+  &emsp;| T2_G2_V7_documentacao.pdf<br>
+  &emsp;| T2_G2_V7_documentacao.docx<br>
 |--> imagens<br>
 |--> Notebook<br>
 | readme.md<br>
@@ -69,17 +69,12 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 Aqui estão as referências usadas no projeto:
 
-Phase 1 of the CRISP-DM Process Model: Business Understanding. Disponível em:
-<https://www.dummies.com/article/technology/information-technology/data-science/
-general-data-science/phase-1-of-the-crisp-dm-process-model-business-understanding-
-148161/>. Acesso em: 21 set. 2022.
+COMPANHIA, Solides. Índice de turnover no Brasil: conheça as porcentagens pelos setores. [S. l.], 30 set. 2022. Disponível em: https://blog.solides.com.br/indice-de-turnover-no-brasil/. Acesso em: 22 set. 2022.
 
-Phase 2 of the CRISP-DM Process Model: Data Understanding. Disponível em:
-<https://www.dummies.com/article/technology/information-technology/data-science/
-general-data-science/phase-2-of-the-crisp-dm-process-model-data-understanding-
-148213/>. Acesso em: 21 set. 2022.
+IBM SPSS Modeler CRISP-DM Guide. recurso online. Disponível em: http://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/14.2/en/CRISP_DM.pdf. Acesso em: 9 ago. 2022.
 
-Phase 3 of the CRISP-DM Process Model: Data Preparation. Disponível em:
-<https://www.dummies.com/article/technology/information-technology/data-science/
-general-data-science/phase-3-of-the-crisp-dm-process-model-data-preparation-148177/>.
-Acesso em: 21 set. 2022.
+INTELIGÊNCIA artificial: uma abordagem de aprendizado de máquina. 2. ed. Rio de Janeiro: LTC, 2021. 1 recurso online. ISBN 9788521637509. Disponível em: https://integrada.minhabiblioteca.com.br/books/9788521637509. Acesso em: 4 ago. 2022.
+
+MIKE COHN. Agile Estimating and Planning. United States of America: Prentice-Hall PTR, 2006. 330p., il. ISBN 9780131479418. recurso físico. Acesso em: 12 ago. 2022.
+
+SILVA, Leandro Augusto da. Introdução à mineração de dados: com aplicações em R. Rio de Janeiro: GEN LTC, 2016. 1 recurso online. (SBC (Sociedade Brasileira de Computação). ISBN 9788595155473. Disponível em: https://integrada.minhabiblioteca.com.br/books/9788595155473. Acesso em: 4 ago. 2022.
