@@ -24,11 +24,15 @@ Atualmente as empresas vêm sendo afetadas pela intensa rotatividade dos seus co
 ## 📁 Estrutura de pastas
 
 |--> documentos<br>
-  &emsp;| --> Outros documentos <br>
-  &emsp;| T2_G2_V7_documentacao.pdf<br>
-  &emsp;| T2_G2_V7_documentacao.docx<br>
+  &emsp;| --> antigos<br>
+  &emsp;| --> outros<br>
+  &emsp;| T2_G2_V7_Predictive_Model_Document.pdf<br>
+  &emsp;| T2_G2_V7_Predictive_Model_Document.docx<br>
 |--> imagens<br>
 |--> Notebook<br>
+  &emsp;| --> antigos<br>
+  &emsp;| T2_G2_V5_Predictive_Model_Document.ipynb<br>
+  &emsp;| T2_G2_V5_Predictive_Model_Document.py<br>
 | readme.md<br>
 | license.txt
 
@@ -38,7 +42,7 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>Notebook</b>: aqui estará armazenado o notebook com os códigos e comentários acerca do modelo preditivo criado</b>.
 
-- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares ao <b>web application document</b>.
+- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares ao <b>modelo preditivo</b>.
 
 - <b>imagens</b>: imagens relacionadas ao projeto como um todo (por exemplo imagens do sistema, do grupo, logotipos e afins).
 
